@@ -12,3 +12,5 @@
     + Визуализация и озвучка уровня обнаружения
     + Тихое убийство и утилизация трупов
     + Сверхспособности
+
+[![Demo CountPages alpha](https://i.ibb.co/nnV70R6/lego.png)](https://youtu.be/dYUUaYdnA2Y)
